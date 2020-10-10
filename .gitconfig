@@ -1,0 +1,9 @@
+[alias]
+	st = status
+	dd = add
+	cm = commit
+	co = checkout
+	br = branch
+	pl = pull --prune
+[push]
+	followTags = true
